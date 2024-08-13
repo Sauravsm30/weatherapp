@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    background-image: url('https://images.unsplash.com/photo-1505144808419-1957a94ca61e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=626&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body1{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.searchbar{
+    border-radius: 20px;
+    margin: 0;    
+    justify-content: center;  
+    align-items: center;
+    width: 600px;
+    height: 4px;
+    padding: 1em;
+}
+.icon{
+    cursor: pointer;
+    margin: 0;
+}
+button{
+    height: 35px;
+    width: 35px;
+    border-radius: 70%;
+}
+.b4{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.weather{
+    margin-top: 10em;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    
+    
+.b6{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+.b7{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.b8{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+.b9{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+.b10{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    
+}
+.b12{
+    background:rgba(255, 255, 255, 0.664) ;
+    width: 250px;
+    height: 260px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.city{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
